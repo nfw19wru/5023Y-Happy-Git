@@ -57,7 +57,14 @@ knitr::opts_chunk$set(echo = TRUE)
 - They are not endangered, just very elusive
 - Closely related to raccoons
 
-###
+#### The Child
+
+![Photo: baby yoda](img/Grogu.jpg)
+
+##### baby yoda fun facts:
+
+-likes unfertilised frog eggs & control knobs
+-strong with the force
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
